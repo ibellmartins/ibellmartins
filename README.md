@@ -1,4 +1,4 @@
-## oiee! eu sou a Isabella 😊✨ 
+## oiee! eu sou a Isabella ✨ 
 
 💻 Técnica em Desenvolvimento de Sistemas 
 
