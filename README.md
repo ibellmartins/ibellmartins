@@ -12,7 +12,7 @@
  </div>
  
  ##
-  <div align="center">
+  <div>
   <a href="https://github.com/ibellmartins">
     <img height="180em" align="left" alt="Viviane Oliveira Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibellmartins&show_icons=true&hide_border=true&theme=dracula" />
     <img height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibellmartins&layout=compact&langs_count=7&theme=dracula"/>
