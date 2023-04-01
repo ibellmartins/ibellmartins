@@ -1,6 +1,6 @@
 ## Isabella ✨ 
 
-💻 Sistemas de Informação 
+💻 Sistemas de Informação <br> 
 💻 Desenvolvimento de Sistemas 
 
 <br/>
