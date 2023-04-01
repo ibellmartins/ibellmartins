@@ -1,6 +1,7 @@
-## oiee! eu sou a Isabella ✨ 
+## Isabella ✨ 
 
-💻 Técnica em Desenvolvimento de Sistemas 
+💻 Sistemas de Informação 
+💻 Desenvolvimento de Sistemas 
 
 <br/>
  <div align="left">
