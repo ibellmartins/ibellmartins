@@ -25,5 +25,5 @@
 Entre em contato comigo! 😊
 <div>
   <a href = "https://www.linkedin.com/in/isabella-martins-sofia/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
-  <a href = "https://www.gmail.com/bellasofiamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
+  <a href = "mailto:bellasofiamartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
  </div>
