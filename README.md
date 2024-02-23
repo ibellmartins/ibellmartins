@@ -10,9 +10,10 @@
   <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="logo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- </div>
- 
+  <img align="center" alt="logo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" alt="logo-Git" height="30" width="40" src="https://w7.pngwing.com/pngs/509/412/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png">
+  <img align="center" alt="logo-Git" height="40" width="40" src="https://github.com/ibellmartins/ibellmartins/assets/106943011/76b61357-2995-4765-86a4-e885948ee2b1">
+  
  ##
   <div>
   <a href="https://github.com/ibellmartins">
