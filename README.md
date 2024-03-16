@@ -1,8 +1,8 @@
 ##   Olá! Sou a Isabella ✨ 
 
-💻 Sistemas de Informação 
+💻 Sistemas de Informação - Mackenzie
 <br> 
-💻 Desenvolvimento de Sistemas 
+💻 Desenvolvimento de Sistemas - ETEC
 
 <br/>
  <div align="left">
