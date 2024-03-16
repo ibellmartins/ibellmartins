@@ -1,6 +1,6 @@
 ##   Olá! Sou a Isabella ✨ 
 
-💻 Sistemas de Informação - Mackenzie
+💻 Sistemas de Informação - Universidade Presbiteriana Mackenzie
 <br> 
 💻 Desenvolvimento de Sistemas - ETEC
 
