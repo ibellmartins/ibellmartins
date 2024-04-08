@@ -1,6 +1,6 @@
 ## Hi! 
 <strong>
-Welcome, I'm Isabella! I'm 19 yo and learn technology is my passion ✨ <br> 
+Welcome, I'm Isabella! I'm 19 yo and technology is my passion ✨ <br> 
 <br>
 👩🏻‍💻 Business Analyst Intern at Amazon 
 <br>
