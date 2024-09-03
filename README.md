@@ -6,7 +6,7 @@ Welcome, I'm Isabella! I'm 19 yo and technology is my passion ✨ <br>
 <br>
 👩🏻‍💻 Systems Information student at Mackenzie University
 <br> 
-👩🏻‍💻 Systems Developer from ETEC
+👩🏻‍💻 Systems Developer - ETEC
 <br>
 <br>
  <div align="left">
