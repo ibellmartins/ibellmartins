@@ -1,8 +1,8 @@
 ## Hi! 
 <strong>
-Welcome, I'm Isabella! I'm 19 yo and technology is my passion ✨ <br> 
+Welcome, I'm Isabella! I'm 20 yo and technology is my passion ✨ <br> 
 <br>
-👩🏻‍💻 Business Analyst Intern at Amazon 
+👩🏻‍💻 Data Analyst Jr. at Amazon Brazil
 <br>
 👩🏻‍💻 Systems Information student at Mackenzie University
 <br> 
