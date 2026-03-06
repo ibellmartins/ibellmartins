@@ -1,29 +1,32 @@
-## Hi! 
+## Hey! 
 <strong>
-Welcome, I'm Isabella! I'm 20 yo and technology is my passion ✨ <br> 
+Welcome, I'm Isabella! I'm 21 yo and technology is my passion. Know a little more about me ✨ <br> 
 <br>
 👩🏻‍💻 Data Analyst Jr. at Amazon Brazil
 <br>
-👩🏻‍💻 Systems Information student at Mackenzie University
+👩🏻‍💻 Information Systems at Universidade Presbiteriana Mackenzie
 <br> 
-👩🏻‍💻 Systems Developer - ETEC
+👩🏻‍💻 Systems Developement at ETEC
 <br>
 <br>
- <div align="left">
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="logo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="logo-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-  <img align="center" alt="logo-Git" height="30" width="40" src="https://w7.pngwing.com/pngs/509/412/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-table-table-furniture-text-logo.png">
-  <img align="center" alt="logo-Git" height="40" width="40" src="https://github.com/ibellmartins/ibellmartins/assets/106943011/76b61357-2995-4765-86a4-e885948ee2b1">
- </div>
 
-  <div>
-  <a href="https://github.com/ibellmartins">
-    <img height="180em" width="350px" align="left" alt="Isabella Martins Github Stats" src="https://github-readme-stats.vercel.app/api?username=ibellmartins&show_icons=true&hide_border=true&theme=dracula"/>
+<h3> Technologies </h3>
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" />
 </div>
-   
+   <br>
+   <br>  
 Contact me! 😊
 <div>
   <a href = "https://www.linkedin.com/in/isabella-martins-sofia/"><img src="https://img.shields.io/badge/-Linkedin-%23333?style=for-the-badge&logo=gmail&logoColor=pink" target="_blank"></a>
